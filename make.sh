@@ -1,0 +1,1 @@
+g++ -D__SOLA_LOGGING_ENABLED example.cpp ThreadPool.cpp -o test.out -lpthread
